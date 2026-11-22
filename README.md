@@ -29,17 +29,30 @@ identidade: as cores, as fontes, as fotos e os preços do site viram anúncio.
 
 ## 🔗 Prévias no ar
 
-Páginas de demonstração e de portfólio publicadas pelo GitHub Pages, com o vídeo de divulgação e um texto sobre como cada
-uma foi feita.
+Páginas publicadas pelo GitHub Pages, em ordem de criação, com o vídeo de divulgação e um texto sobre como cada uma foi
+feita.
 
-| Prévia | O que é | Página | Vídeo | Sobre |
-|---|---|---|---|---|
-| **Latos Mídia** | Produtora de conteúdo para pequenos negócios | [Abrir](https://b4sileus-py.github.io/previas-estudio-basileus/latos-midia/) | [Assistir](https://b4sileus-py.github.io/previas-estudio-basileus/latos-midia/video/) | [Ler](https://b4sileus-py.github.io/previas-estudio-basileus/latos-midia/sobre/) |
-| **Escola Designer de Unhas** | Página de vendas de afiliado para curso online | [Abrir](https://b4sileus-py.github.io/previas-estudio-basileus/escola-designer-unhas/) | [Assistir](https://b4sileus-py.github.io/previas-estudio-basileus/escola-designer-unhas/video/) | [Ler](https://b4sileus-py.github.io/previas-estudio-basileus/escola-designer-unhas/sobre/) |
+| # | Prévia | O que é | Página | Vídeo | Sobre |
+|---|---|---|---|---|---|
+| 1 | **Carolina Miranda** | Maquiadora e cabeleireira a domicílio | [Abrir](https://b4sileus-py.github.io/previas-estudio-basileus/carolina-miranda/) | Em breve | [Ler](https://b4sileus-py.github.io/previas-estudio-basileus/carolina-miranda/sobre/) |
+| 2 | **Escola Designer de Unhas** | Página de vendas de afiliado para curso online | [Abrir](https://b4sileus-py.github.io/previas-estudio-basileus/escola-designer-unhas/) | [Assistir](https://b4sileus-py.github.io/previas-estudio-basileus/escola-designer-unhas/video/) | [Ler](https://b4sileus-py.github.io/previas-estudio-basileus/escola-designer-unhas/sobre/) |
+| 3 | **Latos Mídia** | Produtora de conteúdo para pequenos negócios | [Abrir](https://b4sileus-py.github.io/previas-estudio-basileus/latos-midia/) | [Assistir](https://b4sileus-py.github.io/previas-estudio-basileus/latos-midia/video/) | [Ler](https://b4sileus-py.github.io/previas-estudio-basileus/latos-midia/sobre/) |
 
 👉 **Todas as prévias:** [b4sileus-py/previas-estudio-basileus](https://github.com/b4sileus-py/previas-estudio-basileus)
 
 > 📱 As páginas são feitas para o celular. Abra no seu aparelho para ver como o cliente vê.
+
+### 📈 Cada projeto sobe um degrau
+
+O estúdio aprende com cada página e leva o aprendizado para a próxima.
+
+1. **Carolina Miranda: a primeira página.** Identidade própria desenhada do zero, sem nenhuma foto: o ofício aparece
+   em ilustração e movimento. A rolagem passa a prancha no cabelo, e o dedo esfuma o pó da maquiagem.
+2. **Escola Designer de Unhas: mais interação, página e vídeo juntos.** A visitante monta a própria unha (formato, cor,
+   acabamento, carimbo e cabine de LED), passa por uma galeria em leque e chega a uma simulação de agenda. A página
+   continua os anúncios em vídeo, com a mesma paleta e o mesmo logo, e o conjunto chegou a seis versões motion.
+3. **Latos Mídia: um projeto completo, como site contratado.** Fotos reais do trabalho, todos os preços organizados por
+   serviço, um “monte seu pedido” que escreve a mensagem do WhatsApp sozinho e auditoria completa antes de publicar. O vídeo ganhou duas versões, com cortes na batida da música e efeitos sonoros próprios.
 
 ## 🧭 Como um site nasce
 
